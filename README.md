@@ -1,1 +1,1 @@
-# formacao-data-science-python
+# python for data science
